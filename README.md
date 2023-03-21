@@ -1,5 +1,4 @@
-# Hi, my name is Dmitrii, I'm 32 years old 👋
-I'm junior front-end developer.
+# Hi, my name is Dmitrii, I'm junior front-end developer. 👋
 
 I want to develop and implement projects in front-end. In the frontend, I like the process of creating a website from a design layout and its "revival". It is very important for me to see the result of my performance. In my free time I study https://learn.javascript.ru , YouTube channels like JavaScript.ru , I also like to complete katas on codewars.com.
 
