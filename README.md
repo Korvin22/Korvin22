@@ -1,5 +1,11 @@
-# Hi, my name is Dmitrii, I'm junior front-end developer. 👋
+# Привет, меня зовут Дмитрий 👋
+ Я младший фронтенд разработчик.
 
+Хочу развиваться и реализовывать проекты в сфере front-end разработки. Во фронтенде нравится сам процесс создания сайта из дизайн-макета и его «оживление». Для меня очень важно видеть результат своей деятельности. 
+В свободное время изучаю https://learn.javascript.ru, youTube каналы JavaScript.ru, решаю задачи на codewars.com. 
+
+# Hi, my name is Dmitrii 👋
+ I'm junior front-end developer.
 I want to develop and implement projects in front-end. In the frontend, I like the process of creating a website from a design layout and its "revival". It is very important for me to see the result of my performance. In my free time I study https://learn.javascript.ru , YouTube channels like JavaScript.ru , I also like to complete katas on codewars.com.
 
 [![codewars](https://www.codewars.com/users/Korvin223/badges/small)](https://www.codewars.com/users/Korvin223)
